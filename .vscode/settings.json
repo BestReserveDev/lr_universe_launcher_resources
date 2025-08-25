@@ -1,0 +1,13 @@
+{
+    "chat.agent.showThinking": true,
+    "chat.todoListTool.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "chat.agent.maxRequests": 100,
+    "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "dart.lineLength": 80,
+    "[dart]": {
+        "editor.rulers": [
+            80
+        ],
+    }
+}

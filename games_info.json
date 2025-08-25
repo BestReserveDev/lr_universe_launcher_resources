@@ -1,0 +1,47 @@
+{
+    "version": "1",
+    "games": [
+        {
+            "game": "Minecraft",
+            "game_name": "Секция Сервер",
+            "game_version": "1.0.0",
+            "mods_version": "1.0.0",
+            "coverRelativePath": "covers/section.jpg",
+            "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/section.jpg",
+            "bgRelativePath": "backgrounds/section.jpg",
+            "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/section.jpg",
+            "gameurl": "https://drive.google.com/file/d/1V-p9Sraa4TcwP2VPRM8wlnuLKE-0uhTQ/view?usp=drive_link",
+            "modsurl": "https://drive.google.com/file/d/12SQ9FuhkBEJEYPdmr8jekI41MEdc6W0W/view?usp=sharing",
+            "status": "Active",
+            "options_tab": "Enabled"
+        },
+        {
+            "game": "Lethal Company",
+            "game_name": "Lethal Company",
+            "game_version": "1.0.0",
+            "mods_version": "1.0.0",
+            "coverRelativePath": "covers/lethalc.jpg",
+            "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/lethalc.jpg",
+            "bgRelativePath": "backgrounds/lethalc.jpg",
+            "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/lethalc.jpg",
+            "gameurl": "[WIP]",
+            "modsurl": "[WIP]",
+            "status": "Inactive",
+            "options_tab": "Disabled"
+        },
+        {
+            "game": "PEAK",
+            "game_name": "PEAK",
+            "game_version": "1.0.0",
+            "mods_version": "1.0.0",
+            "coverRelativePath": "covers/peak.jpg",
+            "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/peak.jpg",
+            "bgRelativePath": "backgrounds/peak.jpg",
+            "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/peak.jpg",
+            "gameurl": "[WIP]",
+            "modsurl": "[WIP]",
+            "status": "Active",
+            "options_tab": "Disabled"
+        }
+    ]
+}
