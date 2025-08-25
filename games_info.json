@@ -13,9 +13,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1V-p9Sraa4TcwP2VPRM8wlnuLKE-0uhTQ/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/12SQ9FuhkBEJEYPdmr8jekI41MEdc6W0W/view?usp=sharing",
             "status": "Active",
-            "options_tab": "Enabled",
-            "mods_tab": "Enabled",
-            "modrinth": "Enabled"
+            "disabled_tabs": []   
         },
         {
             "game": "Lethal Company",
@@ -29,9 +27,12 @@
             "gameDriveUrl": "[WIP]",
             "modsDriveUrl": "[WIP]",
             "status": "Inactive",
-            "options_tab": "Disabled",
-            "mods_tab": "Disabled",
-            "modrinth": "Disabled"
+            "disabled_tabs": [
+                "options_tab",
+                "mods_tab",
+                "modrinth",
+                "accounts_tab"
+            ]
         },
         {
             "game": "PEAK",
@@ -45,9 +46,12 @@
             "gameDriveUrl": "[WIP]",
             "modsDriveUrl": "[WIP]",
             "status": "Active",
-            "options_tab": "Disabled",
-            "mods_tab": "Disabled",
-            "modrinth": "Disabled"
+            "disabled_tabs": [
+                "options_tab",
+                "mods_tab",
+                "modrinth",
+                "accounts_tab"
+            ]
         }
     ]
 }
