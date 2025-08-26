@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.0",
-    "launcherUrl": "[WIP]",
+    "launcher_version": "0.9.0",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/lr_launcher_0.9.0.exe",
     "games": [
         {
             "game": "Minecraft",
