@@ -7,7 +7,7 @@
             "game_name": "Секция Сервер",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "1.0.0",
+            "available_from_version": "0.9.0",
             "fonts_family": "Minecraft",
             "coverRelativePath": "covers/section.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/section.jpg",
