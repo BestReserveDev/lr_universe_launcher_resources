@@ -1,6 +1,6 @@
 {
-    "launcher_version": "0.8.2",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/lr_launcher_0.8.2.exe",
+    "launcher_version": "0.8.3",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/lr_launcher_0.8.3.exe",
     "games": [
         {
             "game": "Minecraft",
