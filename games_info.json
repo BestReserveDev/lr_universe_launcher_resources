@@ -15,6 +15,7 @@
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/section.jpg",
             "gameDriveUrl": "https://drive.google.com/file/d/1V-p9Sraa4TcwP2VPRM8wlnuLKE-0uhTQ/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/12SQ9FuhkBEJEYPdmr8jekI41MEdc6W0W/view?usp=sharing",
+            "is_steam_required": false,
             "status": "Active",
             "disabled_tabs": []   
         },
@@ -30,6 +31,7 @@
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/lethalc.jpg",
             "gameDriveUrl": "[WIP]",
             "modsDriveUrl": "[WIP]",
+            "is_steam_required": true,
             "status": "Inactive",
             "disabled_tabs": [
                 "options_tab",
@@ -50,6 +52,7 @@
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/peak.jpg",
             "gameDriveUrl": "[WIP]",
             "modsDriveUrl": "[WIP]",
+            "is_steam_required": true,
             "status": "Active",
             "disabled_tabs": [
                 "options_tab",
