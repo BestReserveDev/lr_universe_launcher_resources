@@ -1,6 +1,6 @@
 {
-    "launcher_version": "0.8.6",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/lr_launcher_0.8.6.exe",
+    "launcher_version": "0.9.0",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/lr_launcher_0.9.0.exe",
     "games": [
         {
             "game": "Minecraft",
@@ -13,7 +13,7 @@
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/section.jpg",
             "bgRelativePath": "backgrounds/section.jpg",
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/section.jpg",
-            "gameDriveUrl": "https://drive.google.com/file/d/1V-p9Sraa4TcwP2VPRM8wlnuLKE-0uhTQ/view?usp=drive_link",
+            "gameDriveUrl": "https://drive.google.com/file/d/1Kmk5gQWWNYmbLGNEYpWl2dZObGmBdeFN/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/12SQ9FuhkBEJEYPdmr8jekI41MEdc6W0W/view?usp=sharing",
             "is_steam_required": false,
             "status": "Active",
