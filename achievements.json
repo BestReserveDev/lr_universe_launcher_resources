@@ -167,6 +167,13 @@
       "description": "ЭТО ОНА?!??!?",
       "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/question_mark.png",
       "isSecret": true
+    },
+    {
+      "key": "test_version",
+      "name": "Тестовая версия",
+      "description": "You like doing tests, don't you?",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/question_mark.png",
+      "isSecret": true
     }
   ]
 }
