@@ -1,0 +1,165 @@
+{
+  "achievements": [
+    {
+      "key": "first_launch",
+      "name": "Первый запуск",
+      "description": "Впервые запустить любую игру через LR Launcher.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/first_launch.png",
+      "isSecret": false
+    },
+    {
+      "key": "welcome_to_the_club",
+      "name": "Добро пожаловать в клуб!",
+      "description": "Добавить свой первый аккаунт в менеджер аккаунтов.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/add_account.png",
+      "isSecret": false
+    },
+    {
+      "key": "download_complete",
+      "name": "Загрузка завершена",
+      "description": "Успешно скачать или обновить файлы игры в первый раз.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/download_complete.png",
+      "isSecret": false
+    },
+    {
+      "key": "achievement_hunter",
+      "name": "Охотник за достижениями",
+      "description": "Открыть этот список достижений.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/achievement_hunter.png",
+      "isSecret": false
+    },
+    {
+      "key": "avid_gamer",
+      "name": "Заядлый геймер",
+      "description": "Запустить игры через лаунчер 50 раз.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/avid_gamer.png",
+      "isSecret": false
+    },
+    {
+      "key": "polyglot_gamer",
+      "name": "Полиглот",
+      "description": "Запустить как минимум 3 разные игры, поддерживаемые лаунчером.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/polyglot_gamer.png",
+      "isSecret": false
+    },
+    {
+      "key": "night_shift",
+      "name": "Ночная смена",
+      "description": "Запустить игру в период с 2:00 до 5:00 ночи по местному времени.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/night_shift.png",
+      "isSecret": false
+    },
+    {
+      "key": "soul_collector",
+      "name": "Коллекционер душ",
+      "description": "Иметь 5 или более аккаунтов одновременно в менеджере.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/soul_collector.png",
+      "isSecret": false
+    },
+    {
+      "key": "photographer",
+      "name": "Фотограф",
+      "description": "Открыть менеджер скриншотов, когда в нем есть хотя бы один снимок.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/photographer.png",
+      "isSecret": false
+    },
+    {
+      "key": "engineer",
+      "name": "Инженер",
+      "description": "Изменить количество выделяемой оперативной памяти в настройках.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/engineer.png",
+      "isSecret": false
+    },
+    {
+      "key": "all_the_power",
+      "name": "Вся мощь!",
+      "description": "Выделить 16 ГБ или более оперативной памяти для игры.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/all_the_power.png",
+      "isSecret": false
+    },
+    {
+      "key": "fresh_start",
+      "name": "Начать с чистого листа",
+      "description": "Воспользоваться функцией \"Hard Reset\" для полного сброса файлов игры.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/fresh_start.png",
+      "isSecret": false
+    },
+    {
+      "key": "behind_the_scenes",
+      "name": "За кулисами",
+      "description": "Открыть папку игры через меню настроек.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/behind_the_scenes.png",
+      "isSecret": false
+    },
+    {
+      "key": "detective",
+      "name": "Детектив",
+      "description": "Открыть окно с логами лаунчера для анализа.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/detective.png",
+      "isSecret": false
+    },
+    {
+      "key": "mod_pioneer",
+      "name": "Мододел-первооткрыватель",
+      "description": "Скачать свой первый мод через встроенный поиск Modrinth.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/mod_pioneer.png",
+      "isSecret": false
+    },
+    {
+      "key": "mod_archivist",
+      "name": "Архивариус модов",
+      "description": "Скачать 10 различных модов через лаунчер.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/mod_archivist.png",
+      "isSecret": false
+    },
+    {
+      "key": "switch_master",
+      "name": "Мастер переключателей",
+      "description": "Отключить, а затем снова включить мод во вкладке локальных модов.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/switch_master.png",
+      "isSecret": false
+    },
+    {
+      "key": "mod_overload",
+      "name": "Перегрузка...",
+      "description": "Иметь 50 или более модов в папке `mods` одновременно (включая отключенные).",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/mod_overload.png",
+      "isSecret": false
+    },
+    {
+      "key": "pay_respects",
+      "name": "Выразить почтение",
+      "description": "Открыть вкладку \"О программе\" и ознакомиться с авторами.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/pay_respects.png",
+      "isSecret": false
+    },
+    {
+      "key": "reconnaissance",
+      "name": "Разведчик",
+      "description": "Проверить статус игрового сервера на главной вкладке Minecraft.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/reconnaissance.png",
+      "isSecret": false
+    },
+    {
+      "key": "forbidden_fruit",
+      "name": "Запретный плод сладок",
+      "description": "Попытаться запустить игру, которая отмечена как временно недоступная.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/secret_achievement.png",
+      "isSecret": true
+    },
+    {
+      "key": "im_going_already",
+      "name": "Да иду я, иду!",
+      "description": "Нажать кнопку \"Играть\" 5 раз за 2 секунды, пока игра уже находится в процессе запуска.",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/secret_achievement.png",
+      "isSecret": true
+    },
+    {
+      "key": "achievement_not_found",
+      "name": "Достижение не найдено",
+      "description": "???",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/question_mark.png",
+      "isSecret": true
+    }
+  ]
+}
