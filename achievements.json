@@ -160,6 +160,13 @@
       "description": "???",
       "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/question_mark.png",
       "isSecret": true
+    },
+    {
+      "key": "secret_version",
+      "name": "Секретная версия",
+      "description": "ЭТО ОНА?!??!?",
+      "iconUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/main/achievements/icons/question_mark.png",
+      "isSecret": true
     }
   ]
 }
