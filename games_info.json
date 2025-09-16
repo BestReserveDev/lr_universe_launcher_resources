@@ -1,6 +1,7 @@
 {
-    "launcher_version": "1.0.0",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_1.0.0.exe",
+    "launcher_version": "1.0.1",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_1.0.1.exe",
+    "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
         {
             "game": "Minecraft",
@@ -26,7 +27,7 @@
             "game_name": "Lethal Company",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "1.1.0",
+            "available_from_version": "1.5.0",
             "coverRelativePath": "covers/lethalc.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/lethalc.jpg",
             "bgRelativePath": "backgrounds/lethalc.jpg",
@@ -47,7 +48,7 @@
             "game_name": "PEAK",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "1.0.5",
+            "available_from_version": "1.5.5",
             "coverRelativePath": "covers/peak.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/peak.jpg",
             "bgRelativePath": "backgrounds/peak.jpg",
