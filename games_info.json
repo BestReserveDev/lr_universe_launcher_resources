@@ -58,11 +58,7 @@
             "is_steam_required": true,
             "status": "Active",
             "disabled_tabs": [
-                "options_tab",
-                "mods_local",
-                "modrinth",
-                "accounts_tab",
-                "server_status"
+                "options_tab"
             ]
         }
     ]
