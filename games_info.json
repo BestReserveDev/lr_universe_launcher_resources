@@ -27,7 +27,7 @@
             "game_name": "Lethal Company",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "1.5.0",
+            "available_from_version": "1.0.5",
             "coverRelativePath": "covers/lethalc.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/lethalc.jpg",
             "bgRelativePath": "backgrounds/lethalc.jpg",
