@@ -35,7 +35,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1t-1CTkciO48UsPw318H6bH02BT64yAVB/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Active",
+            "status": "Inactive",
             "disabled_tabs": [
                 "options_tab",
                 "mods_tab",
@@ -56,7 +56,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1rU_ADjgfQQK_GrC7E5YCtDdUqQLXT0nB/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Active",
+            "status": "Inactive",
             "disabled_tabs": [
                 "options_tab",
                 "mods_local",
