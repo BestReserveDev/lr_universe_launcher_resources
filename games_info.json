@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.5",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_1.0.5.exe",
+    "launcher_version": "1.0.6",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_1.0.6.exe",
     "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
         {
@@ -27,7 +27,7 @@
             "game_name": "Lethal Company",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "1.0.5",
+            "available_from_version": "1.0.6",
             "coverRelativePath": "covers/lethalc.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/lethalc.jpg",
             "bgRelativePath": "backgrounds/lethalc.jpg",
@@ -35,7 +35,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1t2lBHveqLe1ojii6ADYbvfZ7WXAT97LD/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/1PqvSEqL-8-PTyh25RAkPZSjaguh6QexB/view?usp=drive_link",
             "is_steam_required": true,
-            "status": "Active",
+            "status": "Inactive",
             "disabled_tabs": [
                 "options_tab",
                 "mods_tab",
@@ -48,7 +48,7 @@
             "game_name": "PEAK",
             "game_version": "1.0.2",
             "mods_version": "1.0.0",
-            "available_from_version": "1.0.4",
+            "available_from_version": "1.0.7",
             "coverRelativePath": "covers/peak.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/peak.jpg",
             "bgRelativePath": "backgrounds/peak.jpg",
@@ -56,7 +56,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1rU_ADjgfQQK_GrC7E5YCtDdUqQLXT0nB/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
                 "options_tab",
                 "mods_local",
