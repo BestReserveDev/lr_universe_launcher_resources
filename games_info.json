@@ -19,7 +19,7 @@
             "server_ip": "d1.gloffi.host",
             "server_port": "40299",
             "is_steam_required": false,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": []   
         },
         {
@@ -35,7 +35,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1t-1CTkciO48UsPw318H6bH02BT64yAVB/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/1PqvSEqL-8-PTyh25RAkPZSjaguh6QexB/view?usp=drive_link",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
                 "options_tab",
                 "mods_tab",
