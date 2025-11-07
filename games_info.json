@@ -19,7 +19,7 @@
             "server_ip": "d1.gloffi.host",
             "server_port": "40299",
             "is_steam_required": false,
-            "status": "Active",
+            "status": "Inactive",
             "disabled_tabs": []   
         },
         {
