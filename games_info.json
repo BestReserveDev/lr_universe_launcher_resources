@@ -85,6 +85,27 @@
                 "modrinth",
                 "accounts_tab"
             ]
+        },
+        {
+            "game": "MIMESIS",
+            "game_name": "MIMESIS",
+            "game_version": "1.0.0",
+            "mods_version": "1.0.0",
+            "available_from_version": "1.1.0",
+            "coverRelativePath": "covers/mimesis.jpg",
+            "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/mimesis.jpg",
+            "bgRelativePath": "backgrounds/mimesis.jpg",
+            "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/mimesis.jpg",
+            "gameDriveUrl": "[WIP]",
+            "modsDriveUrl": "[WIP]",
+            "is_steam_required": true,
+            "status": "Inactive",
+            "disabled_tabs": [
+                "options_tab",
+                "mods_tab",
+                "modrinth",
+                "accounts_tab"
+            ]
         }
     ]
 }
