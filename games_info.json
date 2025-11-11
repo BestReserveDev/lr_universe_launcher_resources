@@ -99,7 +99,7 @@
             "gameDriveUrl": "[WIP]",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
                 "options_tab",
                 "mods_tab",
