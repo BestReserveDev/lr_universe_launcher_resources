@@ -117,10 +117,10 @@
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/amongus.jpg",
             "bgRelativePath": "backgrounds/amongus.jpg",
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/amongus.jpg",
-            "gameDriveUrl": "https://drive.google.com/file/d/1xv9J9WjhaEkEN3sy4DFNOWhbMLFNIJRS/view?usp=drive_link",
+            "gameDriveUrl": "[WIP]",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Active",
+            "status": "Inactive",
             "disabled_tabs": [
             "options_tab",
             "mods_tab",
