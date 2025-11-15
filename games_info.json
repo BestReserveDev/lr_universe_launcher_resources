@@ -101,10 +101,31 @@
             "is_steam_required": true,
             "status": "Active",
             "disabled_tabs": [
-                "options_tab",
-                "mods_tab",
-                "modrinth",
-                "accounts_tab"
+            "options_tab",
+            "mods_tab",
+            "modrinth",
+            "accounts_tab"
+            ]
+        },
+        {
+            "game": "amongus",
+            "game_name": "Among Us",
+            "game_version": "1.0.0",
+            "mods_version": "1.0.0",
+            "available_from_version": "1.1.0",
+            "coverRelativePath": "covers/amongus.jpg",
+            "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/amongus.jpg",
+            "bgRelativePath": "backgrounds/amongus.jpg",
+            "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/amongus.jpg",
+            "gameDriveUrl": "[WIP]",
+            "modsDriveUrl": "[WIP]",
+            "is_steam_required": true,
+            "status": "Active",
+            "disabled_tabs": [
+            "options_tab",
+            "mods_tab",
+            "modrinth",
+            "accounts_tab"
             ]
         }
     ]
