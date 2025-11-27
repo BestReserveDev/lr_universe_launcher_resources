@@ -19,7 +19,7 @@
             "server_ip": "c11.play2go.cloud",
             "server_port": "20161",
             "is_steam_required": false,
-            "status": "Active",
+            "status": "Inactive",
             "disabled_tabs": []   
         },
         {
