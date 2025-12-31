@@ -16,8 +16,8 @@
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/section2.jpg",
             "gameDriveUrl": "https://drive.google.com/file/d/1XqzI3BNucl8Qop-fnZQggy3xRHmXnfJ4/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/12SQ9FuhkBEJEYPdmr8jekI41MEdc6W0W/view?usp=sharing",
-            "server_ip": "c11.play2go.cloud",
-            "server_port": "20161",
+            "server_ip": "c8.play2go.cloud",
+            "server_port": "20150",
             "is_steam_required": false,
             "status": "Active",
             "disabled_tabs": []   
