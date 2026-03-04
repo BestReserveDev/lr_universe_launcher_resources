@@ -133,7 +133,7 @@
             "game_name": "YAPYAP",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "1.1.1",
+            "available_from_version": "2.2.0",
             "coverRelativePath": "covers/yapyap.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/yapyap.jpg",
             "bgRelativePath": "backgrounds/yapyap.jpg",
@@ -141,7 +141,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/13AkO8UZZr6gwKkAOXcpYQ9cAx8U5Lgfi/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
             "options_tab",
             "mods_tab",
