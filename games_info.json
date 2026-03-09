@@ -1,8 +1,8 @@
 {
-    "launcher_version": "2.2.0",
-    "launcher_beta_version": "2.2.0-beta",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.2.0.exe",
-    "launcherBetaUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.2.0-beta.exe",
+    "launcher_version": "2.2.1",
+    "launcher_beta_version": "2.2.2-beta",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.2.1.exe",
+    "launcherBetaUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.2.2-beta.exe",
     "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
         {
