@@ -21,7 +21,7 @@
             "server_ip": "c8.play2go.cloud",
             "server_port": "20150",
             "is_steam_required": false,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": []   
         },
         {
@@ -37,7 +37,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1t2lBHveqLe1ojii6ADYbvfZ7WXAT97LD/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/1PqvSEqL-8-PTyh25RAkPZSjaguh6QexB/view?usp=drive_link",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
                 "options_tab",
                 "mods_tab",
@@ -58,7 +58,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1bRt6x5JPtmdiuKcLeAgwoaznzGp0mYdC/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
                 "options_tab",
                 "mods_local",
@@ -80,7 +80,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1kDLEuBnw0VW0kxv5zrufMj2rwqMX58is/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
                 "options_tab",
                 "mods_tab",
@@ -101,7 +101,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/13AkO8UZZr6gwKkAOXcpYQ9cAx8U5Lgfi/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
             "options_tab",
             "mods_tab",
@@ -122,7 +122,7 @@
             "gameDriveUrl": "https://disk.yandex.ru/d/7HBv5bziOciMtA",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
             "options_tab",
             "mods_tab",
@@ -143,7 +143,7 @@
             "gameDriveUrl": "https://drive.google.com/file/d/1VKMdGzbdhheALY_uiyQaPB3o83Gv4vsm/view?usp=drive_link",
             "modsDriveUrl": "[WIP]",
             "is_steam_required": true,
-            "status": "Inactive",
+            "status": "Active",
             "disabled_tabs": [
             "options_tab",
             "mods_tab",
