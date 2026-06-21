@@ -6,7 +6,7 @@
     "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
         {
-            "game": "MinecraftBR",
+            "game": "minecraftbr",
             "game_name": "Minecraft ЛР6",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
