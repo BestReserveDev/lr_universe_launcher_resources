@@ -6,6 +6,25 @@
     "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
         {
+            "game": "MinecraftBR",
+            "game_name": "Minecraft ЛР6",
+            "game_version": "1.0.0",
+            "mods_version": "1.0.0",
+            "available_from_version": "2.1.0",
+            "fonts_family": "Minecraft",
+            "coverRelativePath": "covers/minecraftbr.jpg",
+            "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/minecraftbr.jpg",
+            "bgRelativePath": "backgrounds/minecraftbr.jpg",
+            "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/minecraftbr.jpg",
+            "gameDriveUrl": "https://drive.google.com/file/d/1XqzI3BNucl8Qop-fnZQggy3xRHmXnfJ4/view?usp=drive_link",
+            "modsDriveUrl": "https://drive.google.com/file/d/12SQ9FuhkBEJEYPdmr8jekI41MEdc6W0W/view?usp=sharing",
+            "server_ip": "c8.play2go.cloud",
+            "server_port": "20150",
+            "is_steam_required": false,
+            "status": "Inactive",
+            "disabled_tabs": []   
+        },
+        {
             "game": "Minecraft",
             "game_name": "Секция Сервер 2 (ЛР5)",
             "game_version": "1.0.0",
