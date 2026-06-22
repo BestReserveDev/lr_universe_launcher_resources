@@ -18,8 +18,6 @@
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/minecraftbr.jpg",
             "gameDriveUrl": "",
             "modsDriveUrl": "",
-            "server_ip": "",
-            "server_port": "",
             "is_steam_required": false,
             "status": "Inactive",
             "disabled_tabs": []   
