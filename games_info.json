@@ -1,7 +1,7 @@
 {
-    "launcher_version": "2.5.1",
+    "launcher_version": "2.5.2",
     "launcher_beta_version": "2.2.2-beta",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.5.1.exe",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.5.2.exe",
     "launcherBetaUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.2.2-beta.exe",
     "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
@@ -44,14 +44,14 @@
         {
             "game": "Lethal Company",
             "game_name": "Lethal Company",
-            "game_version": "1.0.0",
-            "mods_version": "1.0.0",
+            "game_version": "1.0.1",
+            "mods_version": "1.0.1",
             "available_from_version": "1.0.7",
             "coverRelativePath": "covers/lethalc.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/lethalc.jpg",
             "bgRelativePath": "backgrounds/lethalc.jpg",
             "bgRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/backgrounds/lethalc.jpg",
-            "gameDriveUrl": "https://drive.google.com/file/d/1t2lBHveqLe1ojii6ADYbvfZ7WXAT97LD/view?usp=drive_link",
+            "gameDriveUrl": "https://drive.google.com/file/d/1Q-pQcNL5fUFTbL-65NO_o1QvWoUHU5zt/view?usp=drive_link",
             "modsDriveUrl": "https://drive.google.com/file/d/1PqvSEqL-8-PTyh25RAkPZSjaguh6QexB/view?usp=drive_link",
             "is_steam_required": true,
             "status": "Active",
