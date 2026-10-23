@@ -1,7 +1,7 @@
 {
-    "launcher_version": "2.7.2",
+    "launcher_version": "2.8.0",
     "launcher_beta_version": "2.2.2-beta",
-    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.7.2.exe",
+    "launcherUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.8.0.exe",
     "launcherBetaUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_2.2.2-beta.exe",
     "launcherSecretUrl": "https://raw.githubusercontent.com/BestReserveDev/lr_universe_launcher_resources/refs/heads/main/Launchers/LR_Launcher_Setup_Secret.exe",
     "games": [
@@ -10,7 +10,7 @@
             "game_name": "Project Zomboid",
             "game_version": "1.0.0",
             "mods_version": "1.0.0",
-            "available_from_version": "2.8.0",
+            "available_from_version": "3.0.0",
             "fonts_family": "Minecraft",
             "coverRelativePath": "covers/minecraftbr.jpg",
             "coverRawUrl": "https://github.com/BestReserveDev/lr_universe_launcher_resources/raw/main/covers/minecraftbr.jpg",
